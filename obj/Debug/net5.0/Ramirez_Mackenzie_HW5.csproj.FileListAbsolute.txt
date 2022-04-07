@@ -1,0 +1,364 @@
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.csproj.AssemblyReference.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.AssemblyInfoInputs.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.AssemblyInfo.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.csproj.CoreCompileInputs.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.MvcApplicationPartsAssemblyInfo.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorAssemblyInfo.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorAssemblyInfo.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/appsettings.Development.json
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/appsettings.json
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/libman.json
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.deps.json
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.runtimeconfig.json
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.runtimeconfig.dev.json
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ref/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.Views.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.Views.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Humanizer.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/scopedcss/bundle/Ramirez_Mackenzie_HW5.styles.css
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/staticwebassets/Ramirez_Mackenzie_HW5.StaticWebAssets.Manifest.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.TagHelpers.input.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.TagHelpers.output.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorCoreGenerate.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/ChangePassword.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/Login.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/Register.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Create.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Delete.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Details.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Edit.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/RoleAdmin/Create.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/RoleAdmin/Edit.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/RoleAdmin/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Seed/Confirm.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Seed/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/Confirm.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorTargetAssemblyInfo.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorTargetAssemblyInfo.cs
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.Views.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.csproj.CopyComplete
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/ref/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.pdb
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.genruntimeconfig.cache
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/mack/Desktop/School/MIS33K/Homework 5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/appsettings.Development.json
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/appsettings.json
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/libman.json
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.deps.json
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.runtimeconfig.json
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.runtimeconfig.dev.json
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ref/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.Views.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Ramirez_Mackenzie_HW5.Views.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Humanizer.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.csproj.AssemblyReference.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.AssemblyInfoInputs.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.AssemblyInfo.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.csproj.CoreCompileInputs.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.MvcApplicationPartsAssemblyInfo.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorAssemblyInfo.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorAssemblyInfo.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/scopedcss/bundle/Ramirez_Mackenzie_HW5.styles.css
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/staticwebassets/Ramirez_Mackenzie_HW5.StaticWebAssets.Manifest.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.TagHelpers.input.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.TagHelpers.output.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorCoreGenerate.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/ChangePassword.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/Login.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Account/Register.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Create.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Details.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Edit.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Products/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/RoleAdmin/Create.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/RoleAdmin/Edit.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/RoleAdmin/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Seed/Confirm.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Seed/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/Confirm.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorTargetAssemblyInfo.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.RazorTargetAssemblyInfo.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.Views.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.csproj.CopyComplete
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/ref/Ramirez_Mackenzie_HW5.dll
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.pdb
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Ramirez_Mackenzie_HW5.genruntimeconfig.cache
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Suppliers/Create.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Suppliers/Details.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Suppliers/Edit.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Suppliers/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Orders/Create.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Orders/Delete.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Orders/Details.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Orders/Edit.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Orders/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/OrderDetails/Create.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/OrderDetails/Delete.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/OrderDetails/Details.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/OrderDetails/Edit.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/OrderDetails/Index.cshtml.g.cs
+/Users/mack/Desktop/School/MIS33K/Homework5/Ramirez_Mackenzie_HW5/Ramirez_Mackenzie_HW5/obj/Debug/net5.0/Razor/Views/Suppliers/Delete.cshtml.g.cs
